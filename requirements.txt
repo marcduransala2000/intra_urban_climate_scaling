@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+pyreadr
+basemap
+geopandas
+geodatasets
+shapely
+osmnx
+folium
+statsmodels
+meteostat
+networkx
+rioxarray
