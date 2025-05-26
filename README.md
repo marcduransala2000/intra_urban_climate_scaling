@@ -1,9 +1,6 @@
 # intra_urban_climate_scaling
 
-Repository for the results of the paper  
-**“Universal scaling of intra-urban climate fluctuations”**  
-(arXiv: https://arxiv.org/abs/XXXX.XXXXX)  
-_This manuscript is currently under review in Nature Communications._
+Repository for the results of the paper **“Universal scaling of intra-urban climate fluctuations”** (arXiv: https://arxiv.org/abs/XXXX.XXXXX). This manuscript is currently under review in Nature Communications.
 
 ## Structure
 
