@@ -5,6 +5,10 @@ seaborn
 scipy
 scikit-learn
 pyreadr
+requests
+xarray
+rasterio
+netCDF4
 basemap
 geopandas
 geodatasets

@@ -5,7 +5,7 @@ Repository for the results of the paper **“Universal scaling of intra-urban cl
 ## Structure
 
 - `src/`             – Main code modules for data processing, analysis, and plotting  
-- `empirical_data/`  – Raw empirical CSV datasets used in the analysis  
+- `datasets/`  – Generated CSV datasets used in the analysis  
 - `requirements.txt` – Python dependencies  
 - `README.md`        – This file  
 
