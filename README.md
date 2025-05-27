@@ -1,6 +1,6 @@
 # intra_urban_climate_scaling
 
-Repository for the results of the paper **“Universal scaling of intra-urban climate fluctuations”** (arXiv: https://arxiv.org/abs/XXXX.XXXXX). This manuscript is currently under review in Nature Communications.
+Repository for the results of the paper **“Universal scaling of intra-urban climate fluctuations”** (arXiv: https://arxiv.org/abs/2505.19998). This manuscript is currently under review in Nature Communications.
 
 ## Structure
 
@@ -11,8 +11,6 @@ Repository for the results of the paper **“Universal scaling of intra-urban cl
 
 ## Installation
 
-Install all required Python packages:
+Install all required Python packages with:
 
-\`\`\`bash
-pip install -r requirements.txt
-\`\`\`
+    pip install -r requirements.txt
