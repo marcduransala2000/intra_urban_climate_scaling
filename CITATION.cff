@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Scaling intra-urban climate fluctuations"
+message: "If you use this repository, please cite the associated Nature Cities article."
+authors:
+  - family-names: Duran-Sala
+    given-names: Marc
+  - family-names: Hendrick
+    given-names: Martin
+  - family-names: Manoli
+    given-names: Gabriele
+doi: 10.1038/s44284-026-00441-z
+date-released: 2026-05-19
+url: "https://github.com/urbes-team/scaling_intra_urban_climate"
